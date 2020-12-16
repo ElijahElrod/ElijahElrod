@@ -1,16 +1,15 @@
-### Hey there, I'm Elijah Elrod - aka [BackStackDev][website]
+### Hey there, I'm Elijah Elrod -
 
-## I'm a Developer, and Teacher!
-- 🔭 I’m currently working on a [technical blog][website]!
+## 
 - 🌱 I’m currently learning full-stack development 
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 I work at a large financial services company
 - ⚡ Fun fact: I love to learn new things
 
 ---
 
 ### Connect with me:
 
-[<img align="left" alt="backstackdev.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 [<img align="left" alt="ElijahElrod | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
