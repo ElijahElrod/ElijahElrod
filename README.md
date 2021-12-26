@@ -2,7 +2,7 @@
 
 ## 
 - 🌱 I’m currently learning full-stack development 
-- 🥅 I work at a large financial services company
+- 🥅 I work at an adtech company as a backend software engineer.
 - ⚡ Fun fact: I love to learn new things
 
 ---
