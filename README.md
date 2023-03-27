@@ -1,7 +1,6 @@
 ### Hey there, I'm Elijah Elrod -
 
 ## 
-- 🌱 I’m currently learning full-stack development 
 - 🥅 I work at an adtech company as a backend software engineer.
 - ⚡ Fun fact: I love to learn new things
 
