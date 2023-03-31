@@ -34,6 +34,6 @@
 ---
 
 <img align="left" alt="ElijahElrods's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ElijahElrod&show_icons=true&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elijahelrod&layout=compact&langs_count=10)](https://github.com/elijahelrod/github-readme-stats)
 
-[website]: https://backstackdev.com
 [linkedin]: https://linkedin.com/in/elijahelrod
