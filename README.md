@@ -1,7 +1,7 @@
 ### Hey there, I'm Elijah Elrod -
 
 ## 
-- 🥅 I work at an adtech company as a backend software engineer.
+- 🥅 I work at an adtech company as a software engineer.
 - ⚡ Currently Learning: Go 
 
 ---
