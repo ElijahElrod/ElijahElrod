@@ -7,7 +7,7 @@ I'm [Elijah Elrod](https://elijahelrod.com/) &ndash; experienced and product-dri
 
 ### About me
 
-I have experience in developing web services, applications, microservices, and SaaS projects in  <br/>  the financial services, adtech, recruiting, and real estate industries.<br>
+I have experience in developing web services, applications, microservices, and SaaS projects in various industries.
 
 I devote time not only to work, but also to learning new languages, technologies, and technical literature.
 
