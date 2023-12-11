@@ -26,7 +26,7 @@ I devote time not only to work, but also to learning new languages, technologies
 
 ### Frameworks/Tools: &emsp; 
 [![NEXT.JS](https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=nextdotjs&logoColor=black)](#)
-[![TAILWIND](https://img.shields.io/badge/TAWILWIND%20css-white?style=for-the-badge&logo=tailwindcss&color=20CBED&logoColor=ffffff)](#)
+[![TAILWIND](https://img.shields.io/badge/TAILWIND%20css-white?style=for-the-badge&logo=tailwindcss&color=20CBED&logoColor=ffffff)](#)
 [![DOCKER](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=ffffff)](#)
 [![KUBERNETES](https://img.shields.io/badge/K8s-2496ED.svg?&style=for-the-badge&logo=Kubernetes&logoColor=ffffff)](#)
 [![GRAPHQL](https://img.shields.io/badge/GraphQL-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=ffffff)](#)
