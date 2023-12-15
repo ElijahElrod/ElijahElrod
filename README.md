@@ -22,7 +22,8 @@ I devote time not only to work, but also to learning new languages, technologies
 ### Languages: &emsp; 
 [![TYPESCRIPT](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black)](#)
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![GO](https://img.shields.io/badge/GoLang-ffffff?style=for-the-badge&logo=go&color=7fd5ea&logoColor=ffffff)](#)
+[![GO](https://img.shields.io/badge/Go-ffffff?style=for-the-badge&logo=go&color=7fd5ea&logoColor=ffffff)](#)
+[![GO](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&color=7fd5ea&logoColor=ffffff)](#)
 
 ### Frameworks/Tools: &emsp; 
 [![NEXT.JS](https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=nextdotjs&logoColor=black)](#)
