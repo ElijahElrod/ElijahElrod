@@ -25,17 +25,18 @@ I devote time not only to work, but also to learning new languages, technologies
 [![GO](https://img.shields.io/badge/Go-ffffff?style=for-the-badge&logo=go&color=7fd5ea&logoColor=ffffff)](#)
 [![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=fff)](#)
 
-### Frameworks/Tools: &emsp; 
+### Frameworks / Tools: &emsp; 
 [![NEXT.JS](https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=nextdotjs&logoColor=black)](#)
 [![TAILWIND](https://img.shields.io/badge/TAILWIND%20css-white?style=for-the-badge&logo=tailwindcss&color=20CBED&logoColor=ffffff)](#)
 [![DOCKER](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=ffffff)](#)
 [![KUBERNETES](https://img.shields.io/badge/K8s-2496ED.svg?&style=for-the-badge&logo=Kubernetes&logoColor=ffffff)](#)
 [![GRAPHQL](https://img.shields.io/badge/GraphQL-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=ffffff)](#)
 
-### Databases: &emsp; 
+### Databases / Infra: &emsp; 
 [![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)](#)
 [![Cassandra](https://img.shields.io/badge/Cassandra-2496ED.svg?style=for-the-badge&logo=apachecassandra&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=4479A1)](#)
+[![Kafka](https://img.shields.io/badge/kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)](#)
 
 ### Cloud: &emsp; 
 [![DATADOG](https://img.shields.io/badge/DataDog-632CA6?style=for-the-badge&logo=datadog&logoColor=ffffff)](#)
