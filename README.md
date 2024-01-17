@@ -26,7 +26,7 @@ I devote time not only to work, but also to learning new languages, technologies
 [![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=fff)](#)
 
 ### Frameworks / Tools: &emsp; 
-[![NEXT.JS](https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=nextdotjs&logoColor=black)](#)
+[![NEXT.JS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff)](#)
 [![TAILWIND](https://img.shields.io/badge/TAILWIND%20css-white?style=for-the-badge&logo=tailwindcss&color=20CBED&logoColor=ffffff)](#)
 [![DOCKER](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=ffffff)](#)
 [![KUBERNETES](https://img.shields.io/badge/K8s-2496ED.svg?&style=for-the-badge&logo=Kubernetes&logoColor=ffffff)](#)
