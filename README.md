@@ -7,13 +7,11 @@ I'm [Elijah Elrod](https://elijahelrod.com/) &ndash; experienced and product-dri
 
 ### About me
 
-I have experience in developing web services, applications, microservices, and SaaS projects in various industries.
+I have experience in developing web services, full-stack applications, microservices, and SaaS projects in various industries.
 
-I devote time not only to work, but also to learning new languages, technologies, and technical literature.
+I devote time not only to work, but also to learning new languages, technologies, and reading technical literature.
 
-:muscle: &nbsp; I'm learning hexagonal architecture, and emulators<br>
-:thought_balloon: &nbsp; Ask me about anything related to tech, I would love to share my thoughts<br>
-:zap: &nbsp; Fun fact: I love rock-climbing
+:muscle: &nbsp; I'm learning Rust + Go via building passion projects<br>
 
 ---
 
