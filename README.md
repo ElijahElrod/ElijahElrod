@@ -35,13 +35,10 @@ I devote time not only to work, but also to learning new languages, technologies
 [![Cassandra](https://img.shields.io/badge/Cassandra-2496ED.svg?style=for-the-badge&logo=apachecassandra&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=4479A1)](#)
 [![Kafka](https://img.shields.io/badge/kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)](#)
-
-### Cloud: &emsp; 
 [![DATADOG](https://img.shields.io/badge/DataDog-632CA6?style=for-the-badge&logo=datadog&logoColor=ffffff)](#)
 [![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=ffffff)](#)
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)](#)
 [![GOOGLECLOUD](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](#)
-[![JETBRAINS](https://img.shields.io/badge/Jet%20Brains-00C58E?style=for-the-badge&logo=jetbrains&color=000000&logoColor=ffffff)](#)
 
 ### Git: &emsp; 
 [![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)](#)
