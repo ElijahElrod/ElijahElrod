@@ -11,7 +11,7 @@ I have experience in developing web services, full-stack applications, microserv
 
 I devote time not only to work, but also to learning new languages, technologies, and reading technical literature.
 
-:muscle: &nbsp; I'm learning Rust + Go via building passion projects<br>
+:muscle: &nbsp; I'm learning Rust via building passion projects<br>
 
 ---
 
