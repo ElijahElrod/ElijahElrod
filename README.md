@@ -3,7 +3,6 @@
 Welcome to my GitHub profile!<br>
 I'm [Elijah Elrod](https://elijahelrod.com/) &ndash; experienced and product-driven Software Engineer.
 
-> “All we have to decide is what to do with the time that is given us.” - Gandalf
 
 ### About me
 
@@ -11,13 +10,14 @@ I have experience in developing web services, full-stack applications, microserv
 
 I devote time not only to work, but also to learning new languages, technologies, and reading technical literature.
 
-:muscle: &nbsp; I'm learning Rust via building passion projects<br>
+:muscle: &nbsp; I'm learning Go via building out passion projects<br>
 
 ---
 
 ## Stack:
 
-### Languages: &emsp; 
+### Languages: &emsp;
+[![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
 [![TYPESCRIPT](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black)](#)
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![GO](https://img.shields.io/badge/Go-ffffff?style=for-the-badge&logo=go&color=7fd5ea&logoColor=ffffff)](#)
